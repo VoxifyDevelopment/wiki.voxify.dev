@@ -22,5 +22,5 @@ VoxifyBot is a versatile Discord bot designed to enhance your server experience.
 * 🇨🇿 Czech (cs)
 * 🇵🇱 Polish (pl)
 
-Join the multilingual conversation and elevate your Discord experience with VoxifyBot!
+Join the multilingual conversation and elevate your Discord experience with VoxifyBot [today](getting-started.md)!
 
