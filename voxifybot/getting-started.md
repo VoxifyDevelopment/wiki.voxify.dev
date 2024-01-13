@@ -1,19 +1,27 @@
 ---
-description: Here you find a brief description of how to invite and setup the VoxifyBot.
+description: >-
+  Embark on an enchanting journey with VoxifyBot by following these simple
+  steps:
 ---
 
 # Getting Started
 
-Step 1&#x20;
+<mark style="color:red;">**How to get Started with VoxifyBot**</mark>
 
-[Invite VoxifyBot](https://add.voxifybot.com/)&#x20;
+**Step 1:** [**Invite VoxifyBot**](https://add.voxifybot.com/)
 
-Step 2
+* Invite VoxifyBot to your server and open the door to a world of possibilities.
 
-Setup the bot using `/setup container:my-container-category lobby:my-lobby-voice-channel`
+**Step 2: Setup the Bot**
 
-See: [Advanced Setup](advanced-setup.md)
+* Effortlessly set up the bot by using the command `/setup container:my-container-category lobby:my-lobby-voice-channel`.
+* For those seeking more advanced setup options, delve into the possibilities outlined in the Advanced Setup guide.
 
-Step 3&#x20;
+**Step 3: Dive into the Experience**
 
-Enjoy the temporary voice chat experience!
+* Once set up, immerse yourself in the captivating world of temporary voice chats.
+* Unleash the full potential of VoxifyBot and relish the delightful experience it brings!
+
+Also see: [Advanced Setup](advanced-setup.md)
+
+Begin your VoxifyBot adventure now and elevate your Discord server to new heights!

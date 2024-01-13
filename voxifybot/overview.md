@@ -9,7 +9,7 @@ description: >-
 
 VoxifyBot boasts [multilingual support](multilingual-support.md), ensuring a global audience can enjoy its versatile features.
 
-**Key Features:**
+<mark style="color:red;">**Key Features**</mark>
 
 1. **Temporary Voice Channels:**
    * Create and manage temporary voice channels on your Discord server.
@@ -25,16 +25,17 @@ VoxifyBot boasts [multilingual support](multilingual-support.md), ensuring a glo
    * Perform various actions with just a click, such as renaming and setting limits.
    * See: [Advanced Setup](advanced-setup.md)
 4. **Premium Features (Coming Soon):**
-   * Multiple lobbies and temp-voice containers.
-   * Enhanced controls for temporary voice channels.
-   * Role-based access for customized channel management.
-   * Premium gifting for a limited time to test premium features.
+   * Experience the power of multiple lobbies and temp-voice containers for enhanced server dynamics.
+   * Enjoy customizable controls, tailoring the bot to your specific needs. Define the functionalities that matter most to you.
+   * Benefit from advanced controls for temporary voice channels, providing an elevated level of customization.
+   * Explore role-based access for personalized channel management.
+   * Premium gifting enables users to test exclusive features for a limited time, ensuring a seamless experience.
 5.  **Support and Bug Reporting:**
 
-    * Join the support server for assistance and questions.
-    * Easily report bugs to help improve VoxifyBot's performance.
+    * Join the support server for assistance and inquiries.
+    * Report bugs effortlessly to contribute to the continual enhancement of VoxifyBot's performance.
     * [Join our Discord](https://discord.gg/wUXQt9hb84)
 
 
 
-VoxifyBot aims to revolutionize your [Discord](https://discord.gg/wUXQt9hb84) server by offering a robust set of features, ensuring an unparalleled user experience for all members. Elevate your temporary voice channels with VoxifyBot [today](getting-started.md)!
+[VoxifyBot](https://add.voxifybot.com/) is on a mission to revolutionize your [Discord](https://discord.gg/wUXQt9hb84) server by providing an extensive feature set, guaranteeing an unparalleled user experience for all members. Elevate your voice channels today with VoxifyBot!

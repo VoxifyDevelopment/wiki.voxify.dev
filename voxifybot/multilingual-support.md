@@ -8,7 +8,7 @@ description: >-
 # Multilingual Support
 
 \
-**Multilingual Support Overview:**
+<mark style="color:red;">**Multilingual Support Overview**</mark>
 
 VoxifyBot is a versatile Discord bot designed to enhance your server experience. With a commitment to inclusivity, VoxifyBot offers multilingual support, ensuring seamless communication for users around the world. Speak in your preferred language, as VoxifyBot understands and responds in various languages, fostering a global and diverse community on your Discord server. Elevate your interactions with VoxifyBot's extensive language support, including:
 
